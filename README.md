@@ -1,4 +1,6 @@
-# credit_card_fraud_detection
+Link to dataset:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 Machine Learning Methods used for classification:
 1. Logistic regression
 2. Support Vector Classification
